@@ -51,4 +51,3 @@ function smoothScroll(){
     raf = requestAnimationFrame(smoothScroll)
 }
 smoothScroll();
-
